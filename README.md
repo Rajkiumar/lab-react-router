@@ -25,3 +25,5 @@ As you can see, that ->
 You have to achieve the same, using router's.
 
 Happy Coding ❤️!
+
+After using npm create vite@latest <project name> use npm install react-router-dom so that the router should work
